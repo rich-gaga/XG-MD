@@ -1,7 +1,7 @@
 {
-  "name": "Trex Md",
+  "name": "XG MD",
   "version": "10.8.1",
-  "description": "Trex latest multi device whatsapp bot",
+  "description": "XG latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
