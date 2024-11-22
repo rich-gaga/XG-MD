@@ -70,7 +70,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/rich-gaga/XG-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by Pairing Code
@@ -98,7 +98,7 @@
    <br>
 2. Now Deploy
 <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/rich-gaga/XG-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -107,8 +107,7 @@
 ***
 
 ### THANKS TO:
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
-- [***Baraka Bega***](https://github.com/Kingbega) For Code encryption 
-- [***Marisel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
+- [***ELIJAH TECH***]('https://github.com/ELIJAH-Ombogo)
+- For Providing a Base of **XG-MD**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
