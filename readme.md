@@ -6,8 +6,8 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
-    <img alt=Support height="390" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg"> 
+  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+    <img alt=Support height="390" src="https://files.catbox.moe/sfk02i.jpg"> 
     </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+XG-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
