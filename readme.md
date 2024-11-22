@@ -31,12 +31,12 @@
 
 1. Fork the repo
     <br>
-<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blue"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by Pairing Code
     <br>
-<a href='https://bera-tech-session-generator-097a81850ae3.herokuapp.com/' target="_blue"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://bera-tech-session-generator-097a81850ae3.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
