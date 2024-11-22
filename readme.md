@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                                   TREX-MD-BOT 
+<p align="center">                                                   XG-MD-BOT 
 
 
 </p>
@@ -10,7 +10,7 @@
     <img alt=Support height="390" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg"> 
     </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TREX-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+XG-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
