@@ -5,12 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Trex Md",
-    "stop": "pm2 stop trex",
-    "restart": "pm2 restart trex"
+    "start": "pm2 start index.js --deep-monitoring --attach --name XG MD",
+    "stop": "pm2 stop XG",
+    "restart": "pm2 restart XG"
   },
-  "keywords": ["trex", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Marisel",
+  "keywords": ["XG", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Gaga",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
