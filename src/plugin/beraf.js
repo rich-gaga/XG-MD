@@ -35,7 +35,7 @@ const alive = async (m, Matrix) => {
 ┗
 ┏
 ┃『ᴡᴀ ɢʀᴏᴜᴘ 』
-┃❐ https://chat.whatsapp.com/JP0tus4T1Hm6gnwuIRmaIW
+┃❐ https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F
 ┗
 ┏
 ┃『ʏᴏᴜ ᴛᴜʙᴇ 』
