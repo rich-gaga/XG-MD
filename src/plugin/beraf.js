@@ -76,7 +76,7 @@ KEEP USING 𝚾𝐆-𝚳𝐃`;
               text: uptimeMessage
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "Powered by 𝚾𝐆-𝚳𝐃"
+              text: "POWERED by 𝚾𝐆-𝚳𝐃"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({ image: buffer }, { upload: Matrix.waUploadToServer })),
