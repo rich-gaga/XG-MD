@@ -27,25 +27,25 @@ const alive = async (m, Matrix) => {
     const buffer = await image.getBufferAsync(Jimp.MIME_PNG);
     
     const uptimeMessage = `┏━━━━❐
-┃『TREX MD 』
+┃『 𝚾𝐆-𝚳𝐃』
 ┗
 ┏
 ┃『ᴡᴀ ᴄʜᴀɴɴᴇʟ』
-┃❑ https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+┃❑ https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F
 ┗
 ┏
 ┃『ᴡᴀ ɢʀᴏᴜᴘ 』
-┃❐ https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+┃❐ https://chat.whatsapp.com/JP0tus4T1Hm6gnwuIRmaIW
 ┗
 ┏
 ┃『ʏᴏᴜ ᴛᴜʙᴇ 』
-┃❐https://youtube.com/@_BERA_TECH
+┃❐xgaga
 ┗
 ┏
 ┃『ᴛɪᴋᴛᴏᴋ 』
-┃❐https://www.Instagram.com/@_BERA_TECH
+┃❐xgaga
 ┗━━━━━━━━━━━━━━━━━━❑
-KEEP USING TREX MD`;
+KEEP USING 𝚾𝐆-𝚳𝐃`;
     
     const buttons = [
       {
@@ -76,7 +76,7 @@ KEEP USING TREX MD`;
               text: uptimeMessage
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "Powered by TREX MD"
+              text: "Powered by 𝚾𝐆-𝚳𝐃"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({ image: buffer }, { upload: Matrix.waUploadToServer })),
@@ -93,8 +93,8 @@ KEEP USING TREX MD`;
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '254743982206@s.whatsapp.net',
-                newsletterName: "BERA TECH",
+                newsletterJid: '254112291443@s.whatsapp.net',
+                newsletterName: "𝚾𝐆𝚫𝐆𝚫 𝚻𝚵𝚫𝚳",
                 serverMessageId: 143
               }
             }
