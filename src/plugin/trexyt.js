@@ -18876,10 +18876,10 @@ const song = async (m, Matrix) => {
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `Trex Md Video Downloader\n\n🔍 Download audio or video with a single click.\n\n`
+                text: `XG MD Video Downloader\n\n🔍 Download audio or video with a single click.\n\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© Powered By Trex Md"
+                text: "© Powered By XG MD"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image: { url: `https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg` } }, { upload: Matrix.waUploadToServer })),
@@ -18969,7 +18969,7 @@ const song = async (m, Matrix) => {
           const videoStream = ytdl(videoUrl, { filter: 'audioandvideo', quality: 'highest' });
           const finalVideoBuffer = await streamToBuffer(videoStream);
 
-          await Matrix.sendMessage(m.from, { video: finalVideoBuffer, mimetype: 'video/mp4', caption: `Title: ${title}\nAuther: ${author}\nDuration: ${duration}\n\n *Powered by TREX-MD*` }, { quoted: m });
+          await Matrix.sendMessage(m.from, { video: finalVideoBuffer, mimetype: 'video/mp4', caption: `Title: ${title}\nAuther: ${author}\nDuration: ${duration}\n\n *Powered by XG-MD*` }, { quoted: m });
         }
       } catch (error) {
         console.error("Error fetching video brooh:", error);
