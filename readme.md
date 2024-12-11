@@ -422,7 +422,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-***𝙓𝙂 𝙈𝘿 𝙄𝙈𝙋𝙊𝙍𝙏𝘼𝙉𝙏 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ***
+## `XG MD IMPORTANT INFORMATION`
 agaga
 
 
