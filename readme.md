@@ -31,7 +31,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src="https://img.shields.io/badge/GET SESSION-h?color=pink&style=for-the-badge&logo=XG MD" width="220" height="38.45"/></a>
 
 
 2. Get session id by Pairing Code
