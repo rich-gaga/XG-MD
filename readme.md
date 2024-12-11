@@ -45,22 +45,22 @@
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://heroku.com' target="_blank"><img alt='heroku' src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
+<a href='https://heroku.com' target="_blank"><img alt='heroku' src="https://img.shields.io/badge/CREATE ACCOUNT-h?color=blue&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
    <br>
 2. Now Deploy ON HEROKU 
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/rich-gaga/XG-MD/tree/main' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/rich-gaga/XG-MD/tree/main' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/DEPLOY NOW-h?color=green&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
 
 
 #### DEPLOY TO RENDER
 
 1. If You don't have a account in Render. Create a account.
     <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src="https://img.shields.io/badge/CREATE ACCOUNT-h?color=green&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/DEPLOY NOW-h?color=green&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
