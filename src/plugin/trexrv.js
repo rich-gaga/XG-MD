@@ -15403,7 +15403,7 @@ const rvo = async (m, sock) => {
     const type = Object.keys(msg)[0];
     
     const originalCaption = msg[type].caption || '';
-    const newCaption = `${originalCaption}\n\n> © Powered By Trex-Md`;
+    const newCaption = `${originalCaption}\n\n> © Powered By 𝙓𝙂 𝙈𝘿`;
 
 
     // Download the media content
