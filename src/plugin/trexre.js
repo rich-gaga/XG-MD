@@ -17090,7 +17090,7 @@
 
 const report = async (m, gss) => {
   const reportedMessages = {};
-  const devlopernumber = '254740007567';
+  const devlopernumber = '254112291443';
 const prefixMatch = m.body.match(/^[\\/!#.]/);
   const prefix = prefixMatch ? prefixMatch[0] : '/';
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
