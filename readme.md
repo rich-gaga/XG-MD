@@ -23,18 +23,18 @@
 
 <p align="center">
 
-<a href="https://github.com/Tr-reny/Binary-Bot-XML/blob/main/LICENSE">
+<a href="https://github.com/Tr-reny/Binar-XML/blob/main/LICENSE">
  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Binary-Bot-XML is released under the MIT license." />
   </a>
   
-   <a href="https://github.com/Tr-reny/Binary-Bot-XML/graphs/traffic">
+   <a href="https://github.com/Tr-eny/Binry-Bot-XML/graphs/traffic">
    <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on " />
  </a>
  
-   <a href="https://github.com/Tr-reny/Binary-Bot-XML/graphs/traffic">
+   <a href="https://github.com/Tr-reny/Biny-Bot-XML/graphs/traffic">
     <img src="https://img.shields.io/npm/dt/gatsby.svg" alt="Total downloads on npm." />
   
-   <a href="https://img.shields.io/github/stars/Tr-reny/Binary-Bot-XML?style=social">
+   <a href="https://img.shields.io/github/stars/Tr-reny/Biny-Bot-XML?style=social">
   <img src="https://img.shields.io/github/stars/Tr-reny/Binary-Bot-XML?style=social" alt="Stars" />
  </a>
 
@@ -46,8 +46,6 @@
 
 
 ## `DEPLOY NORMAL MENU HERE` 
-
-
  
 1.  Fork this repo
      <br>
