@@ -1,9 +1,9 @@
 {
-  "name":"BERA TECH",
+  "name":"XGAGA BOTS",
   "description":"Best whatsapp bot developed by BRUCE BERA",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
-  "repository":"https://github.com/Bera-Tech/bera-media",
+  "logo":"https://files.catbox.moe/sfk02i.jpg",
+  "repository":"https://github.com/rich-gaga/XG MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BERA TECH BOT",
+      "value":"XG MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
+      "value":"https://files.catbox.moe/sfk02i.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BERA"
+    "value": "GAGA"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743982206"
+    "value": "254112291443,254729269118,254756156216"
   },
     "WARN_COUNT":
   {
