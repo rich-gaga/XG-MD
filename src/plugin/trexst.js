@@ -15387,7 +15387,7 @@ const stickerCommand = async (m, gss) => {
   const prefix = prefixMatch ? prefixMatch[0] : '/';
   const [cmd, arg] = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ') : ['', ''];
 
-  const packname = global.packname || "Trex-Md";
+  const packname = global.packname || "𝙓𝙂 𝙈𝘿";
   const author = global.author || "🥵💫👿";
 
   const validCommands = ['sticker', 's', 'autosticker'];
