@@ -15428,11 +15428,11 @@ const video = async (m, Matrix) => {
         // If it's a search query, use yt-search for video
         const searchResult = await yts(text);
         const firstVideo = searchResult.videos[0];
-        await m.React("🎊");
+        await m.React("🚝");
 
         if (!firstVideo) {
           m.reply('Video not found.');
-          await m.React("🙆‍♂️");
+          await m.React("👽");
           return;
         }
 
@@ -15448,12 +15448,12 @@ const video = async (m, Matrix) => {
           try {
             const finalVideoBuffer = Buffer.concat(videoBuffer);
           
-            await Matrix.sendMessage(m.from, { video: finalVideoBuffer, mimetype: 'video/mp4', caption: '© Powered by TREX-MD' }, { quoted: m });
-            await m.React("🇮🇳");
+            await Matrix.sendMessage(m.from, { video: finalVideoBuffer, mimetype: 'video/mp4', caption: '© Powered by XG MD' }, { quoted: m });
+            await m.React("🚝");
           } catch (err) {
             console.error('Error sending video:', err);
             m.reply('Error sending video.');
-            await m.React("🙆‍♂️");
+            await m.React("👽");
           }
         });
       }
