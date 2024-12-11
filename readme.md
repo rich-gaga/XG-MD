@@ -29,9 +29,8 @@
 ## `DEPLOY NORMAL MENU HERE` 
 
 
-1. Fork the repo
     <br>
-<a href='https://gitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src="https://img.shields.io/badge/GET SESSION-h?color=pink&style=for-the-badge&logo=XG MD" width="220" height="38.45"/></a>
+<a href='https://gitHub.com/rich-gaga/XG-MD/fork' target="_blank"><img alt='Fork repo' src="https://img.shields.io/badge/FORK THIS REPO-h?color=yellow&style=for-the-badge&logo=XG MD" width="220" height="38.45"/></a>
 
 
 2. Get session id by Pairing Code
