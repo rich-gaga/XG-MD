@@ -3445,7 +3445,7 @@ const alive = async (m, Matrix) => {
     image.print(font, x, y, timeString, width, Jimp.HORIZONTAL_ALIGN_CENTER | Jimp.VERTICAL_ALIGN_MIDDLE);
     const buffer = await image.getBufferAsync(Jimp.MIME_PNG);
     
-    const uptimeMessage = `*Trex-Md Status Overview*
+    const uptimeMessage = `*XG MD Status Overview*
 _________________________________________
 
 *📆 ${days} Day(s)*
@@ -3484,7 +3484,7 @@ _________________________________________
               text: uptimeMessage
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "Trex-Md"
+              text: "XG MD"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({ image: buffer }, { upload: Matrix.waUploadToServer })),
@@ -3502,7 +3502,7 @@ _________________________________________
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363315115438245@newsletter',
-                newsletterName: "Trex-Md",
+                newsletterName: "XG MD",
                 serverMessageId: 143
               }
             }
