@@ -429,7 +429,7 @@
 <a href="https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F" /><br>
 <a href="https://t.me/richardgaga"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=red" />
 <a href="https://chat.whatsapp.com/JlrqoawQEKv0CXsnM0bZSg"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-<a href="https://www.instagram.com/Naitwa gaga/
+<a href="https://www.instagram.com/naitwagaga/
   igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
